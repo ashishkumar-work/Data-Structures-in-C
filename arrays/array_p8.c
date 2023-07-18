@@ -6,6 +6,7 @@
 #define COL2 2
 int main()
 {
+    
     int i, j, k, mat1[ROW1][COL1], mat2[ROW2][COL2], mat3[ROW1][COL2];
     for(i=0; i<ROW1; i++){                             //First matrix loop
         for(j=0; j<COL1; j++){
