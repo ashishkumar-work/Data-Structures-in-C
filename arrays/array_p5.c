@@ -1,5 +1,5 @@
 //Passing an whole array into a function
-//passing an array gives into fuction, gives functions excess to do any changes into the array 
+//passing an array into fuction, which gives the function excess to do any changes into the array 
 #include<stdio.h>
 void func(int val[]);
 int main(){
