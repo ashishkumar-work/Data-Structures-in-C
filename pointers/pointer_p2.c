@@ -1,4 +1,4 @@
-//Program to understand pointer to pointer
+//Program to understand pointer to a pointer
 #include<stdio.h>
 int main()
 {
