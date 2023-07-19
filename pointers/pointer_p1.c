@@ -1,4 +1,4 @@
-//Program to derefrence pointer variables
+//Program to dereference pointer variables
 #include<stdio.h>
 int main()
 {
