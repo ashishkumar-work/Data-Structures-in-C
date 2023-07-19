@@ -1,4 +1,4 @@
-//An array passed into a function and the recieving argument is declared as a pointer
+//An array passed into a function and the receiving argument is declared as a pointer
 #include<stdio.h>
 void func();
 int main()
