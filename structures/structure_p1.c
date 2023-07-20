@@ -1,4 +1,4 @@
-//Program to display the values of structure members
+//Program to display the values of structure members.
 #include<stdio.h>
 #include<string.h>
     struct student
