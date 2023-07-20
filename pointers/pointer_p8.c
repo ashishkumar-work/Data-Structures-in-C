@@ -1,4 +1,4 @@
-//Program for a function return a pointer
+//Program to show a function that returns pointer
 #include<stdio.h>
 int *fun();
 int main()
