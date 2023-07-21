@@ -53,7 +53,7 @@
 
 [Program-2](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p2.c) | Program to assign a structure variable to another structure variable.
 
-
+[Program-3](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p3.c) | Program to understand array of structures.
 
 
 
