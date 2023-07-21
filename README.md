@@ -51,6 +51,8 @@
 
 [Program-1](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p1.c) | Program to display the values of structure members.
 
+[Program-2](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p2.c) | Program to assign a structure variable to another structure variable.
+
 
 
 
