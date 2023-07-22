@@ -1,7 +1,9 @@
 **<H1>DATA STRUCTURES IN C</H1>**
 ---------------------------------
 [Arrays](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#arrays)
+
 [Pointers](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#pointers)
+
 [Structures](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#structures)
 
 
