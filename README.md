@@ -59,6 +59,8 @@
 
 [Program-5](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p5.c) | Program to understand pointers to structures.
 
+[Program-6](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p6.c) | Program to understand how structure members are sent to a function.
+
 
  
 
