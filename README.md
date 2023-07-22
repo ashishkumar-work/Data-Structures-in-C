@@ -55,6 +55,7 @@
 
 [Program-3](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p3.c) | Program to understand array of structures.
 
+[Program-4](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p4.c) | Program to understand arrays within the structure.
 
 
  
