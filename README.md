@@ -1,5 +1,15 @@
 **<H1>DATA STRUCTURES IN C</H1>**
 ---------------------------------
+<h3>INDEX</h3>
+
+1.[Arrays](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#arrays)
+
+2.[Pointers](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#pointers)
+
+3.[Structures](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#structures)
+
+
+---------------
 <h2>Arrays</h2>
 
 [Program-1](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/arrays/array_p1.c) | Program to input and display values in an array.
@@ -58,6 +68,8 @@
 [Program-4](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p4.c) | Program to understand arrays within the structure.
 
 [Program-5](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p5.c) | Program to understand pointers to structures.
+
+[Program-6](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p6.c) | Program to understand how structure members are sent to a function.
 
 
  
