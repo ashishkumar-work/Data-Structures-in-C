@@ -71,6 +71,8 @@
 
 [Program-6](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p6.c) | Program to understand how structure members are sent to a function.
 
+[Program-7](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p7.c) | Program to understand how a structure variable is sent to a function.
+
 
  
 
