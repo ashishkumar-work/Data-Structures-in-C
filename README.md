@@ -8,7 +8,7 @@
 
 3.[Structures](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#structures)
 
-4.[Linked Lists](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#linked+lists)
+4.[Linked Lists](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#linked-lists)
 
 
 ---------------
