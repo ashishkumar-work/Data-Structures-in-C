@@ -1,4 +1,4 @@
-//Program to understand how an array of structures is sent to a functiom
+//Program to understand how an array of structures is sent to a function
 #include <stdio.h>
 void display();
 void dec_marks();
