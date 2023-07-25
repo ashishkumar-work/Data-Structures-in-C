@@ -79,6 +79,8 @@
 
 [Program-10](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p10.c) | Program to undertsnad how a pointer to structure is returned from a function.
 
+[Program-11](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p11.c) | Program to understand how an array of structures is sent to a function.
+
  
 
 
