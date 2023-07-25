@@ -75,6 +75,8 @@
 
 [Program-8](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p8.c) | Program to understand the pointers in the structures.
 
+[Program-9](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p9.c) | Program to understand how structure variables are returned from a function.
+
  
 
 
