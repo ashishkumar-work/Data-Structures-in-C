@@ -1,5 +1,5 @@
 **<H1>DATA STRUCTURES IN C</H1>**
----------------------------------
+----------------------------------
 <h3>INDEX</h3>
 
 1.[Arrays](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#arrays)
