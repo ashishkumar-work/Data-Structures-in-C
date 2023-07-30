@@ -1,5 +1,5 @@
 **<H1>DATA STRUCTURES IN C</H1>**
----------------------------------
+----------------------------------
 <h3>INDEX</h3>
 
 1.[Arrays](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#arrays)
@@ -7,6 +7,8 @@
 2.[Pointers](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#pointers)
 
 3.[Structures](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#structures)
+
+4.[Linked Lists](https://github.com/ashishkumar-work/Data-Structures-in-C/tree/main#linked-lists)
 
 
 ---------------
@@ -78,6 +80,12 @@
 [Program-9](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p9.c) | Program to understand how structure variables are returned from a function.
 
 [Program-10](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p10.c) | Program to undertsnad how a pointer to structure is returned from a function.
+
+[Program-11](https://github.com/ashishkumar-work/Data-Structures-in-C/blob/main/structures/structure_p11.c) | Program to understand how an array of structures is sent to a function.
+
+<h2>Linked Lists</h2>
+
+
 
  
 
