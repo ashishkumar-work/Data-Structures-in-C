@@ -36,7 +36,7 @@ int main(){
         printf("12.Ouit\n\n");
         printf("Enter Your Choice: ");
         scanf("%d", &choice);
-    }
+    
 
     switch (choice)
     {
@@ -110,9 +110,9 @@ int main(){
     default:
     printf("Wrong choice !");
         break;
-    }
+    } //End of Switch
+  } //End of while
+}//End of main
 
 
-
-}
 
