@@ -1,14 +1,14 @@
 //Program of single linked list
 #include<stdio.h>
 #include<stdlib.h>
-void display();
-void count();
-void search();
 struct node
 {
     int info;
     struct node *link;
 };
+void display();
+void count();
+void search();
 struct node *create_list(struct node *start);
 struct node *addatbeg(struct node *start, int data);
 struct node *addatend(struct node *start, int data);
@@ -114,5 +114,47 @@ int main(){
   } //End of while
 }//End of main
 
+/*Start Of Display*/
+void display(struct node *start){
+    struct node *p;
+    if(start == NULL){
+        printf("List is empty\n");
+        return;
+    }
+    p = start;
+    printf("List is :\n");
+    while(p!=NULL){
+        printf("%d", p->info);
+        p = p->link;
+    }
+    printf("\n\n");
+}//End of Display
 
+/*Start of Count*/
+void count(struct node *start){
+    struct node *p;
+    int cnt = 0;
+    p = start;
+    while (p!=NULL)
+    {
+        p = p->link;
+        cnt++;
+    }
+    printf("Number of elements are %d\n", cnt);
+}//End of Count 
 
+/*Start of serach*/
+void search(struct node *start, int item){
+    struct node *p = start;
+    int pos = 1;
+    while (p!=NULL)
+    {
+        if(p->info == item){
+            printf("item %d found at the position %d\n", item,pos);
+            return;
+        }
+        p = p->link;
+        pos++;
+    }
+    printf("Item %d not found in the list\n", item);
+}//End of the search
