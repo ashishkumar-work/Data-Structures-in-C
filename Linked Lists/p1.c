@@ -158,3 +158,27 @@ void search(struct node *start, int item){
     }
     printf("Item %d not found in the list\n", item);
 }//End of the search
+
+/*Start of addatbeg()*/
+struct node *addatbeg(struct node *start, int data){
+    struct node *tmp;
+    tmp = (struct node *)malloc(sizeof(struct node));
+    tmp->info = data;
+    tmp->link = start;
+    start = tmp;
+    return start;
+}//End of addatbeg()
+
+/*Start of addatend()*/
+struct node *addatend(struct node *start, int data){
+    struct node *p, *tmp;
+    tmp = (struct node *)malloc(sizeof(struct node));
+    tmp->info = data;
+    p = start;
+    while(p->link!=NULL){
+        p = p->link;
+    }
+    p->link = tmp;
+    tmp->link = NULL;
+    return start;
+}//End of addatend()
