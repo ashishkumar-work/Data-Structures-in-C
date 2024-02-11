@@ -1,3 +1,5 @@
+<H1>This repository will be fully updated will july 2024 and all data structures will be added</H1>
+----------------------------------------------------
 **<H1>DATA STRUCTURES IN C</H1>**
 ----------------------------------
 <h3>INDEX</h3>
